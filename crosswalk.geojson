@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "crosswalk",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.555091, 55.671699 ], [ 37.555146, 55.671741 ], [ 37.555149, 55.671638 ], [ 37.555102, 55.671601 ], [ 37.555091, 55.671699 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 37.553904, 55.671817 ], [ 37.554103, 55.671744 ], [ 37.554076, 55.6717 ], [ 37.55386, 55.671781 ], [ 37.553904, 55.671817 ] ] ] ] } }
+]
+}
